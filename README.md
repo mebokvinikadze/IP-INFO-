@@ -1,7 +1,7 @@
 # IP Info
 `ipinfo` allows you to lookup ip info for your own or others ip's using the [`ip-api.com`](https://ip-api.com/) API.
 
-![ipinfo gif](images/image.gif)
+![IP-INFO-API gif](images/image.gif)
 
 Contents
 ========
