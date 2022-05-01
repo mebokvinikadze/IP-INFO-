@@ -12,8 +12,8 @@
 
 ### Requirements
 ---
-To use this program you will require [`python`](https://www.python.org/) 3.9 or higher
-Requiered modules: mysql-connector, requests (installation guide in readthis.txt)
+- To use this program you will require [`python`](https://www.python.org/) 3.9 or higher
+- Requiered modules: mysql-connector, requests (installation guide in readthis.txt)
 
 ### Features
 ---
